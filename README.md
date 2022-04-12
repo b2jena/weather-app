@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a weather app built using `React` and `OpenWeatherMap API`. Here, `axios` are used to connect with the API.
 
 ## Available Scripts
 
