@@ -1,6 +1,6 @@
 # About
 
-This is a weather app built using `React` and `OpenWeatherMap API`. Here, `axios` are used to connect with the API. `Checkout this project here:` https://singular-mandazi-ea7686.netlify.app/
+This is a weather app built using `React` and `OpenWeatherMap API`. Here, `axios` are used to connect with the API. `Checkout this project here:` https://jenaweather.netlify.app/
 
 ## Available Scripts
 
